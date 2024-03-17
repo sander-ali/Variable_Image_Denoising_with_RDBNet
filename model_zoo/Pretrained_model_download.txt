@@ -1,0 +1,3 @@
+You can download the pretrained model from the following link.
+
+https://drive.google.com/file/d/1gCnIa60SEL5_jQ9X_Ha1CMbnF_FIoXN6/view?usp=sharing
